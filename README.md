@@ -2,6 +2,13 @@
 
 Work with ical formatted data in Go
 
+[![Build Status](https://travis-ci.org/lestrrat/go-ical.png?branch=master)](https://travis-ci.org/lestrrat/go-ical)
+[![GoDoc](https://godoc.org/github.com/lestrrat/go-ical?status.svg)](https://godoc.org/github.com/lestrrat/go-ical)
+
+# WARNING
+
+This repository has been moved to [github.com/lestrrat-go/ical](https://github.com/lestrrat-go/ical). This repository exists so that libraries pointing to this URL will keep functioning, but this repository will NOT be updated in the future. Please use the new import path.
+
 # DESCRIPTION
 
 This is partially a port of Data::ICal (perl5 module) to Go.
